@@ -110,11 +110,11 @@ async function loadText(url) {
   return data;
 }
 async function loadGradeData(grade) {
-  const url = `../assets/${grade}/data.json`;
+  const url = `./assets/${grade}/data.json`;
   return loadJson(url);
 }
 async function loadKanjiSvg(grade, kanji) {
-  const url = `../assets/${grade}/${kanji}.svg`;
+  const url = `./assets/${grade}/${kanji}.svg`;
   return loadText(url);
 }
 
