@@ -1,0 +1,3308 @@
+[
+  {
+    "kanji": "愛",
+    "meaning": "love, affection, favourite",
+    "kun": "いと.しい, かな.しい, め.でる, お.しむ, まな",
+    "on": "アイ",
+    "directions": [
+      ["dl"],
+      ["dr"],
+      ["dr"],
+      ["dl"],
+      ["d"],
+      ["r", "d"],
+      ["d"],
+      ["dr", "r"],
+      ["dr"],
+      ["dr"],
+      ["dl"],
+      ["r", "d", "dl"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "案",
+    "meaning": "plan, suggestion, draft, ponder, fear, proposition, idea, expectation, worry, table, bench",
+    "kun": "つくえ",
+    "on": "アン",
+    "directions": [
+      ["d"],
+      ["d"],
+      ["r", "d"],
+      ["dl", "r"],
+      ["dl", "dl"],
+      ["r"],
+      ["r"],
+      ["d"],
+      ["dl"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "以",
+    "meaning": "by means of, because, in view of, compared with",
+    "kun": "もっ.て",
+    "on": "イ",
+    "directions": [["d"], ["ur"], ["dr"], ["d", "dl"], ["dr"]]
+  },
+  {
+    "kanji": "衣",
+    "meaning": "garment, clothes, dressing",
+    "kun": "ころも, きぬ, -ぎ",
+    "on": "イ, エ",
+    "directions": [["d"], ["r"], ["dl"], ["d", "ur"], ["dl"], ["dr"]]
+  },
+  {
+    "kanji": "位",
+    "meaning": "rank, grade, throne, crown, about, some",
+    "kun": "くらい, ぐらい",
+    "on": "イ",
+    "directions": [["dl"], ["d"], ["d"], ["r"], ["d"], ["d"], ["r"]]
+  },
+  {
+    "kanji": "茨",
+    "meaning": "briar, thorn",
+    "kun": "いばら, かや, くさぶき",
+    "on": "シ, ジ",
+    "directions": [
+      ["r"],
+      ["d"],
+      ["d"],
+      ["r"],
+      ["ur"],
+      ["dl"],
+      ["r", "d"],
+      ["dl"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "印",
+    "meaning": "stamp, seal, mark, imprint, symbol, emblem, trademark, evidence, souvenir, India",
+    "kun": "しるし, -じるし, しる.す",
+    "on": "イン",
+    "directions": [["dl"], ["d"], ["r"], ["r"], ["r", "d", "l"], ["d"]]
+  },
+  {
+    "kanji": "英",
+    "meaning": "England, English, hero, outstanding, calyx",
+    "kun": "はなぶさ",
+    "on": "エイ",
+    "directions": [
+      ["r"],
+      ["d"],
+      ["d"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["d", "dl"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "栄",
+    "meaning": "flourish, prosperity, honor, glory, splendor",
+    "kun": "さか.える, は.え, -ば.え, は.える, え",
+    "on": "エイ, ヨウ",
+    "directions": [
+      ["dr"],
+      ["d"],
+      ["dl"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["d"],
+      ["dl"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "媛",
+    "meaning": "beautiful woman, princess",
+    "kun": "ひめ",
+    "on": "エン",
+    "directions": [
+      ["d", "dr"],
+      ["d", "dl"],
+      ["r"],
+      ["l"],
+      ["dr"],
+      ["dr"],
+      ["dl"],
+      ["r"],
+      ["r"],
+      ["dl"],
+      ["r", "dl"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "塩",
+    "meaning": "salt",
+    "kun": "しお",
+    "on": "エン",
+    "directions": [
+      ["r"],
+      ["d"],
+      ["ur"],
+      ["dl"],
+      ["r"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["d"],
+      ["r", "d"],
+      ["d"],
+      ["d"],
+      ["r"]
+    ]
+  },
+  {
+    "kanji": "岡",
+    "meaning": "mount, hill, knoll",
+    "kun": "おか",
+    "on": "コウ",
+    "directions": [
+      ["d"],
+      ["r", "d", "l"],
+      ["dr"],
+      ["dl"],
+      ["r"],
+      ["d"],
+      ["d", "r"],
+      ["d"]
+    ]
+  },
+  {
+    "kanji": "億",
+    "meaning": "hundred million, 10**8",
+    "kun": "",
+    "on": "オク",
+    "directions": [
+      ["dl"],
+      ["d"],
+      ["d"],
+      ["r"],
+      ["dr"],
+      ["dl"],
+      ["r"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["r"],
+      ["d"],
+      ["dr", "r", "u"],
+      ["r"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "加",
+    "meaning": "add, addition, increase, join, include, Canada",
+    "kun": "くわ.える, くわ.わる",
+    "on": "カ",
+    "directions": [["r", "d", "dl"], ["d", "dl"], ["d"], ["r", "d"], ["r"]]
+  },
+  {
+    "kanji": "果",
+    "meaning": "fruit, reward, carry out, achieve, complete, end, finish, succeed",
+    "kun": "は.たす, はた.す, -は.たす, は.てる, -は.てる, は.て",
+    "on": "カ",
+    "directions": [
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["r"],
+      ["r"],
+      ["d"],
+      ["dl"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "貨",
+    "meaning": "freight, goods, property",
+    "kun": "たから",
+    "on": "カ",
+    "directions": [
+      ["dl"],
+      ["d"],
+      ["dl"],
+      ["d", "r", "ur"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["r"],
+      ["r"],
+      ["dl"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "課",
+    "meaning": "chapter, lesson, section, department, division, counter for chapters (of a book)",
+    "kun": "",
+    "on": "カ",
+    "directions": [
+      ["dr"],
+      ["r"],
+      ["r"],
+      ["r"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["r"],
+      ["r"],
+      ["d"],
+      ["dl"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "芽",
+    "meaning": "bud, sprout, spear, germ",
+    "kun": "め",
+    "on": "ガ",
+    "directions": [["r"], ["d"], ["d"], ["r"], ["d"], ["r"], ["d", "l"], ["dl"]]
+  },
+  {
+    "kanji": "賀",
+    "meaning": "congratulations, joy",
+    "kun": "",
+    "on": "ガ",
+    "directions": [
+      ["r", "dl"],
+      ["dl"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["r"],
+      ["r"],
+      ["dl"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "改",
+    "meaning": "reformation, change, modify, mend, renew, examine, inspect, search",
+    "kun": "あらた.める, あらた.まる",
+    "on": "カイ",
+    "directions": [
+      ["r", "d"],
+      ["r"],
+      ["d", "r", "ur"],
+      ["dl"],
+      ["r"],
+      ["dl", "dl"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "械",
+    "meaning": "contraption, fetter, machine, instrument",
+    "kun": "かせ",
+    "on": "カイ",
+    "directions": [
+      ["r"],
+      ["d"],
+      ["dl"],
+      ["dr"],
+      ["r"],
+      ["r"],
+      ["d"],
+      ["d"],
+      ["d", "dr", "ur"],
+      ["dl"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "害",
+    "meaning": "harm, injury",
+    "kun": "",
+    "on": "ガイ",
+    "directions": [
+      ["d"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["d"],
+      ["r"],
+      ["r"],
+      ["d"],
+      ["r", "d"],
+      ["r"]
+    ]
+  },
+  {
+    "kanji": "街",
+    "meaning": "boulevard, street, town",
+    "kun": "まち",
+    "on": "ガイ, カイ",
+    "directions": [
+      ["dl"],
+      ["dl"],
+      ["d"],
+      ["r"],
+      ["d"],
+      ["r"],
+      ["r"],
+      ["d"],
+      ["r"],
+      ["r"],
+      ["r"],
+      ["d", "l"]
+    ]
+  },
+  {
+    "kanji": "各",
+    "meaning": "each, every, either",
+    "kun": "おのおの",
+    "on": "カク",
+    "directions": [["dl"], ["r", "d", "dl"], ["dr"], ["d"], ["r", "d"], ["r"]]
+  },
+  {
+    "kanji": "覚",
+    "meaning": "memorize, learn, remember, awake, sober up",
+    "kun": "おぼ.える, さ.ます, さ.める, さと.る",
+    "on": "カク",
+    "directions": [
+      ["dr"],
+      ["dr"],
+      ["dl"],
+      ["d"],
+      ["r", "d"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["r"],
+      ["r"],
+      ["dl"],
+      ["d", "r", "ur"]
+    ]
+  },
+  {
+    "kanji": "潟",
+    "meaning": "lagoon",
+    "kun": "かた, -がた",
+    "on": "セキ",
+    "directions": [
+      ["dr"],
+      ["dr"],
+      ["ur"],
+      ["dl"],
+      ["d"],
+      ["r"],
+      ["r", "d"],
+      ["r"],
+      ["r"],
+      ["dl"],
+      ["r", "d", "dl"],
+      ["d"],
+      ["dr"],
+      ["dr"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "完",
+    "meaning": "perfect, completion, end",
+    "kun": "",
+    "on": "カン",
+    "directions": [
+      ["d"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["r"],
+      ["dl"],
+      ["d", "r", "ur"]
+    ]
+  },
+  {
+    "kanji": "官",
+    "meaning": "bureaucrat, the government, organ",
+    "kun": "",
+    "on": "カン",
+    "directions": [
+      ["d"],
+      ["d"],
+      ["r", "d"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["r", "d"],
+      ["r"]
+    ]
+  },
+  {
+    "kanji": "管",
+    "meaning": "pipe, tube, wind instrument, drunken talk, control, jurisdiction",
+    "kun": "くだ",
+    "on": "カン",
+    "directions": [
+      ["dl"],
+      ["r"],
+      ["dr"],
+      ["dl"],
+      ["r"],
+      ["dl"],
+      ["d"],
+      ["d"],
+      ["r", "d"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["r", "d"],
+      ["r"]
+    ]
+  },
+  {
+    "kanji": "関",
+    "meaning": "connection, barrier, gateway, involve, concerning",
+    "kun": "せき, -ぜき, かか.わる, からくり, かんぬき",
+    "on": "カン",
+    "directions": [
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["r"],
+      ["d"],
+      ["r", "d", "l"],
+      ["r"],
+      ["r"],
+      ["dr"],
+      ["dl"],
+      ["r"],
+      ["r"],
+      ["d", "dl"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "観",
+    "meaning": "outlook, look, appearance, condition, view",
+    "kun": "み.る, しめ.す",
+    "on": "カン",
+    "directions": [
+      ["dl"],
+      ["r"],
+      ["r"],
+      ["dl"],
+      ["d"],
+      ["d"],
+      ["r"],
+      ["d"],
+      ["r"],
+      ["r"],
+      ["r"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["r"],
+      ["r"],
+      ["dl"],
+      ["d", "r"]
+    ]
+  },
+  {
+    "kanji": "願",
+    "meaning": "petition, request, vow, wish, hope",
+    "kun": "ねが.う, -ねがい",
+    "on": "ガン",
+    "directions": [
+      ["r"],
+      ["d"],
+      ["d"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["r"],
+      ["d", "ul"],
+      ["dl"],
+      ["dr"],
+      ["r"],
+      ["d"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["r"],
+      ["r"],
+      ["dl"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "岐",
+    "meaning": "branch off, fork in road, scene, arena, theater",
+    "kun": "",
+    "on": "キ, ギ",
+    "directions": [["d"], ["d", "r"], ["d"], ["r"], ["d"], ["r", "dl"], ["dr"]]
+  },
+  {
+    "kanji": "希",
+    "meaning": "hope, beg, request, pray, beseech, Greece, dilute (acid), rare, few, phenomenal",
+    "kun": "まれ, こいねが.う",
+    "on": "キ, ケ",
+    "directions": [
+      ["dl"],
+      ["r"],
+      ["dl", "dl"],
+      ["r"],
+      ["d"],
+      ["r", "d", "l"],
+      ["d"]
+    ]
+  },
+  {
+    "kanji": "季",
+    "meaning": "seasons",
+    "kun": "",
+    "on": "キ",
+    "directions": [
+      ["l"],
+      ["r"],
+      ["d"],
+      ["dl"],
+      ["dr"],
+      ["r", "dl"],
+      ["d", "dl", "ul"],
+      ["r"]
+    ]
+  },
+  {
+    "kanji": "旗",
+    "meaning": "national flag, banner, standard",
+    "kun": "はた",
+    "on": "キ",
+    "directions": [
+      ["d"],
+      ["r"],
+      ["dr", "d", "l"],
+      ["dl"],
+      ["dl"],
+      ["r"],
+      ["r"],
+      ["d"],
+      ["d"],
+      ["r"],
+      ["r"],
+      ["r"],
+      ["dl"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "器",
+    "meaning": "utensil, vessel, receptacle, implement, instrument, ability, container, tool, set",
+    "kun": "うつわ",
+    "on": "キ",
+    "directions": [
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["r"],
+      ["dl", "dl"],
+      ["dr"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["d"],
+      ["r", "d"],
+      ["r"]
+    ]
+  },
+  {
+    "kanji": "機",
+    "meaning": "loom, mechanism, machine, airplane, opportunity, potency, efficacy, occasion",
+    "kun": "はた",
+    "on": "キ",
+    "directions": [
+      ["r"],
+      ["d"],
+      ["d"],
+      ["dr"],
+      ["d", "dr"],
+      ["dl", "r"],
+      ["dr"],
+      ["d", "dr"],
+      ["dl", "r"],
+      ["dr"],
+      ["r"],
+      ["dl"],
+      ["dr"],
+      ["d", "dr", "ur"],
+      ["dl"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "議",
+    "meaning": "deliberation, consultation, debate, consideration",
+    "kun": "",
+    "on": "ギ",
+    "directions": [
+      ["dr"],
+      ["r"],
+      ["r"],
+      ["r"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["dr"],
+      ["dl"],
+      ["r"],
+      ["d"],
+      ["r"],
+      ["r"],
+      ["dl"],
+      ["r"],
+      ["d", "l"],
+      ["ur"],
+      ["d", "dr", "u"],
+      ["dl"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "求",
+    "meaning": "request, want, wish for, require, demand",
+    "kun": "もと.める",
+    "on": "キュウ, グ",
+    "directions": [["r"], ["d", "l"], ["dr"], ["ur"], ["dl"], ["dr"], ["dr"]]
+  },
+  {
+    "kanji": "泣",
+    "meaning": "cry, weep, moan",
+    "kun": "な.く",
+    "on": "キュウ",
+    "directions": [["dr"], ["dr"], ["ur"], ["d"], ["r"], ["d"], ["d"], ["r"]]
+  },
+  {
+    "kanji": "給",
+    "meaning": "salary, wage, gift, allow, grant, bestow on",
+    "kun": "たま.う, たも.う, -たま.え",
+    "on": "キュウ",
+    "directions": [
+      ["dl", "dr"],
+      ["dl", "r"],
+      ["dr"],
+      ["d"],
+      ["dl"],
+      ["d"],
+      ["dl"],
+      ["dr"],
+      ["r"],
+      ["d"],
+      ["r", "d"],
+      ["r"]
+    ]
+  },
+  {
+    "kanji": "挙",
+    "meaning": "raise, plan, project, behavior, actions",
+    "kun": "あ.げる, あ.がる, こぞ.る",
+    "on": "キョ",
+    "directions": [
+      ["dr"],
+      ["dr"],
+      ["dl"],
+      ["r"],
+      ["dl"],
+      ["dr"],
+      ["dl"],
+      ["r"],
+      ["r"],
+      ["d", "d", "l"]
+    ]
+  },
+  {
+    "kanji": "漁",
+    "meaning": "fishing, fishery",
+    "kun": "あさ.る",
+    "on": "ギョ, リョウ",
+    "directions": [
+      ["dr"],
+      ["dr"],
+      ["ur"],
+      ["dl"],
+      ["r", "dl"],
+      ["d"],
+      ["r", "d"],
+      ["d"],
+      ["r"],
+      ["r"],
+      ["dl"],
+      ["d"],
+      ["dr"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "共",
+    "meaning": "together, both, neither, all, and, alike, with",
+    "kun": "とも, とも.に, -ども",
+    "on": "キョウ",
+    "directions": [["r"], ["d"], ["d"], ["r"], ["dl"], ["dr"]]
+  },
+  {
+    "kanji": "協",
+    "meaning": "co-, cooperation",
+    "kun": "",
+    "on": "キョウ",
+    "directions": [
+      ["r"],
+      ["d"],
+      ["r", "dl"],
+      ["dl"],
+      ["r", "dl"],
+      ["dl"],
+      ["r", "dl"],
+      ["dl"]
+    ]
+  },
+  {
+    "kanji": "鏡",
+    "meaning": "mirror, speculum, barrel-head, round rice-cake offering",
+    "kun": "かがみ",
+    "on": "キョウ, ケイ",
+    "directions": [
+      ["dl"],
+      ["dr"],
+      ["r"],
+      ["r"],
+      ["d"],
+      ["dr"],
+      ["dl"],
+      ["ur"],
+      ["d"],
+      ["r"],
+      ["dr"],
+      ["d"],
+      ["r"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["r"],
+      ["dl"],
+      ["d", "r"]
+    ]
+  },
+  {
+    "kanji": "競",
+    "meaning": "emulate, compete with, bid, sell at auction, bout, contest, race",
+    "kun": "きそ.う, せ.る, くら.べる",
+    "on": "キョウ, ケイ",
+    "directions": [
+      ["d"],
+      ["r"],
+      ["dr"],
+      ["d"],
+      ["r"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["dl"],
+      ["d", "ur"],
+      ["d"],
+      ["r"],
+      ["dr"],
+      ["d"],
+      ["r"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["dl"],
+      ["d", "r", "ur"]
+    ]
+  },
+  {
+    "kanji": "極",
+    "meaning": "poles, settlement, conclusion, end, highest rank, electric poles, very, extremely, most, highly, 10**48",
+    "kun": "きわ.める, きわ.まる, きわ.まり, きわ.み, き.める, -ぎ.め, き.まる",
+    "on": "キョク, ゴク",
+    "directions": [
+      ["r"],
+      ["d"],
+      ["dl"],
+      ["dr"],
+      ["r"],
+      ["d", "r", "d", "d"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["r", "dl"],
+      ["dr"],
+      ["r"]
+    ]
+  },
+  {
+    "kanji": "熊",
+    "meaning": "bear",
+    "kun": "くま",
+    "on": "ユウ",
+    "directions": [
+      ["dl", "r"],
+      ["dr"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["r"],
+      ["dl"],
+      ["d", "r"],
+      ["dl"],
+      ["d", "r"],
+      ["dl"],
+      ["dr"],
+      ["dr"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "訓",
+    "meaning": "instruction, Japanese character reading, explanation, read",
+    "kun": "おし.える, よ.む, くん.ずる",
+    "on": "クン, キン",
+    "directions": [
+      ["dr"],
+      ["r"],
+      ["r"],
+      ["r"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["d", "dl"],
+      ["d"],
+      ["d"]
+    ]
+  },
+  {
+    "kanji": "軍",
+    "meaning": "army, force, troops, war, battle",
+    "kun": "いくさ",
+    "on": "グン",
+    "directions": [
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["r"],
+      ["r"],
+      ["d"]
+    ]
+  },
+  {
+    "kanji": "郡",
+    "meaning": "county, district",
+    "kun": "こおり",
+    "on": "グン",
+    "directions": [
+      ["r", "d"],
+      ["r"],
+      ["r"],
+      ["d", "dl"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["r", "d"],
+      ["dr", "d", "l"],
+      ["d"]
+    ]
+  },
+  {
+    "kanji": "群",
+    "meaning": "flock, group, crowd, herd, swarm, cluster",
+    "kun": "む.れる, む.れ, むら, むら.がる",
+    "on": "グン",
+    "directions": [
+      ["r", "d"],
+      ["r"],
+      ["r"],
+      ["d", "dl"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["dr"],
+      ["dl"],
+      ["r"],
+      ["r"],
+      ["r"],
+      ["d"]
+    ]
+  },
+  {
+    "kanji": "径",
+    "meaning": "diameter, path, method",
+    "kun": "みち, こみち, さしわたし, ただちに",
+    "on": "ケイ",
+    "directions": [
+      ["dl"],
+      ["dl"],
+      ["d"],
+      ["r", "dl"],
+      ["dr"],
+      ["r"],
+      ["d"],
+      ["r"]
+    ]
+  },
+  {
+    "kanji": "景",
+    "meaning": "scenery, view",
+    "kun": "",
+    "on": "ケイ",
+    "directions": [
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["r"],
+      ["d"],
+      ["r"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["d", "ul"],
+      ["dl"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "芸",
+    "meaning": "technique, art, craft, performance, acting, trick, stunt",
+    "kun": "う.える, のり, わざ",
+    "on": "ゲイ, ウン",
+    "directions": [["r"], ["d"], ["d"], ["r"], ["r"], ["dl", "r"], ["dr"]]
+  },
+  {
+    "kanji": "欠",
+    "meaning": "lack, gap, fail, yawning radical (no. 76)",
+    "kun": "か.ける, か.く",
+    "on": "ケツ, ケン",
+    "directions": [["dl"], ["r", "dl"], ["d", "dl"], ["dr"]]
+  },
+  {
+    "kanji": "結",
+    "meaning": "tie, bind, contract, join, organize, do up hair, fasten",
+    "kun": "むす.ぶ, ゆ.う, ゆ.わえる",
+    "on": "ケツ, ケチ",
+    "directions": [
+      ["dl", "dr"],
+      ["dl", "r"],
+      ["dr"],
+      ["d"],
+      ["dl"],
+      ["dr"],
+      ["r"],
+      ["d"],
+      ["r"],
+      ["d"],
+      ["r", "d"],
+      ["r"]
+    ]
+  },
+  {
+    "kanji": "建",
+    "meaning": "build",
+    "kun": "た.てる, た.て, -だ.て, た.つ",
+    "on": "ケン, コン",
+    "directions": [
+      ["r", "d"],
+      ["r"],
+      ["r"],
+      ["r"],
+      ["r"],
+      ["d"],
+      ["r", "dl"],
+      ["r", "d", "dl"],
+      ["r"]
+    ]
+  },
+  {
+    "kanji": "健",
+    "meaning": "healthy, health, strength, persistence",
+    "kun": "すこ.やか",
+    "on": "ケン",
+    "directions": [
+      ["dl"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["r"],
+      ["r"],
+      ["r"],
+      ["d"],
+      ["r", "dl"],
+      ["r", "dl"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "験",
+    "meaning": "verification, effect, testing",
+    "kun": "あかし, しるし, ため.す, ためし",
+    "on": "ケン, ゲン",
+    "directions": [
+      ["d"],
+      ["r"],
+      ["d"],
+      ["r"],
+      ["r"],
+      ["r", "d", "l"],
+      ["d"],
+      ["d"],
+      ["dr"],
+      ["dr"],
+      ["dl"],
+      ["dr"],
+      ["r"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["d", "dl"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "固",
+    "meaning": "harden, set, clot, curdle",
+    "kun": "かた.める, かた.まる, かた.まり, かた.い",
+    "on": "コ",
+    "directions": [
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["d"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["r"]
+    ]
+  },
+  {
+    "kanji": "功",
+    "meaning": "achievement, merits, success, honor, credit",
+    "kun": "いさお",
+    "on": "コウ, ク",
+    "directions": [["r"], ["d"], ["ur"], ["r", "d", "dl", "ul"], ["d", "dl"]]
+  },
+  {
+    "kanji": "好",
+    "meaning": "fond, pleasing, like something",
+    "kun": "この.む, す.く, よ.い, い.い",
+    "on": "コウ",
+    "directions": [
+      ["d", "dr"],
+      ["d", "dl"],
+      ["r"],
+      ["r", "dl"],
+      ["d", "d", "l"],
+      ["r"]
+    ]
+  },
+  {
+    "kanji": "香",
+    "meaning": "incense, smell, perfume",
+    "kun": "か, かお.り, かお.る",
+    "on": "コウ, キョウ",
+    "directions": [
+      ["l"],
+      ["r"],
+      ["d"],
+      ["dl"],
+      ["dr"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["r"]
+    ]
+  },
+  {
+    "kanji": "候",
+    "meaning": "climate, season, weather, wait for, expect",
+    "kun": "そうろう",
+    "on": "コウ",
+    "directions": [
+      ["dl"],
+      ["d"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["dl"],
+      ["r"],
+      ["r"],
+      ["d", "dl"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "康",
+    "meaning": "ease, peace",
+    "kun": "",
+    "on": "コウ",
+    "directions": [
+      ["d"],
+      ["r"],
+      ["d", "dl"],
+      ["r", "d"],
+      ["r"],
+      ["r"],
+      ["d", "l"],
+      ["dr"],
+      ["ur"],
+      ["dl"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "佐",
+    "meaning": "assistant, help",
+    "kun": "",
+    "on": "サ",
+    "directions": [["dl"], ["d"], ["r"], ["d", "dl"], ["r"], ["d"], ["r"]]
+  },
+  {
+    "kanji": "差",
+    "meaning": "distinction, difference, variation, discrepancy, margin, balance",
+    "kun": "さ.す, さ.し",
+    "on": "サ",
+    "directions": [
+      ["dr"],
+      ["dl"],
+      ["r"],
+      ["d"],
+      ["r"],
+      ["r"],
+      ["dl"],
+      ["r"],
+      ["d"],
+      ["r"]
+    ]
+  },
+  {
+    "kanji": "菜",
+    "meaning": "vegetable, side dish, greens",
+    "kun": "な",
+    "on": "サイ",
+    "directions": [
+      ["r"],
+      ["d"],
+      ["d"],
+      ["dl"],
+      ["dr"],
+      ["dr"],
+      ["dl"],
+      ["r"],
+      ["d"],
+      ["dl"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "最",
+    "meaning": "utmost, most, extreme",
+    "kun": "もっと.も, つま",
+    "on": "サイ, シュ",
+    "directions": [
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["r"],
+      ["r"],
+      ["d"],
+      ["r"],
+      ["r"],
+      ["ur"],
+      ["d"],
+      ["r", "dl"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "埼",
+    "meaning": "cape, spit, promontory",
+    "kun": "さき, さい, みさき",
+    "on": "キ",
+    "directions": [
+      ["r"],
+      ["d"],
+      ["ur"],
+      ["r"],
+      ["dl"],
+      ["dr"],
+      ["r"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["d", "l"]
+    ]
+  },
+  {
+    "kanji": "材",
+    "meaning": "lumber, log, timber, wood, materials, ingredients, talent",
+    "kun": "",
+    "on": "ザイ",
+    "directions": [["r"], ["d"], ["dl"], ["dr"], ["r"], ["d", "l"], ["dl"]]
+  },
+  {
+    "kanji": "崎",
+    "meaning": "promontory, cape, spit",
+    "kun": "さき, さい, みさき",
+    "on": "キ",
+    "directions": [
+      ["d"],
+      ["d", "r"],
+      ["d"],
+      ["r"],
+      ["dl"],
+      ["dr"],
+      ["r"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["d", "l"]
+    ]
+  },
+  {
+    "kanji": "昨",
+    "meaning": "yesterday, previous",
+    "kun": "",
+    "on": "サク",
+    "directions": [
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["r"],
+      ["dl"],
+      ["r"],
+      ["d"],
+      ["r"],
+      ["r"]
+    ]
+  },
+  {
+    "kanji": "札",
+    "meaning": "tag, paper money, counter for bonds, placard, bid",
+    "kun": "ふだ",
+    "on": "サツ",
+    "directions": [["r"], ["d"], ["dl"], ["dr"], ["d", "r", "ur"]]
+  },
+  {
+    "kanji": "刷",
+    "meaning": "printing, print, brush",
+    "kun": "す.る, -ず.り, -ずり, は.く",
+    "on": "サツ",
+    "directions": [
+      ["r", "d"],
+      ["r"],
+      ["d"],
+      ["d"],
+      ["r", "d"],
+      ["d"],
+      ["d"],
+      ["d", "l"]
+    ]
+  },
+  {
+    "kanji": "察",
+    "meaning": "guess, presume, surmise, judge, understand",
+    "kun": "",
+    "on": "サツ",
+    "directions": [
+      ["d"],
+      ["d"],
+      ["r", "d"],
+      ["dl"],
+      ["r", "d", "dl"],
+      ["dr"],
+      ["dr"],
+      ["r", "dl"],
+      ["dr"],
+      ["r"],
+      ["r"],
+      ["d", "l"],
+      ["dl"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "参",
+    "meaning": "nonplussed, three (in documents), going, coming, visiting, visit, be defeated, die, be madly in love, participate, take part in",
+    "kun": "まい.る, まい-, まじわる, みつ",
+    "on": "サン, シン",
+    "directions": [
+      ["dl", "r"],
+      ["dr"],
+      ["r"],
+      ["dl", "dl"],
+      ["dr"],
+      ["dl"],
+      ["dl"],
+      ["dl"]
+    ]
+  },
+  {
+    "kanji": "産",
+    "meaning": "products, bear, give birth, yield, childbirth, native, property",
+    "kun": "う.む, う.まれる, うぶ-, む.す",
+    "on": "サン",
+    "directions": [
+      ["d"],
+      ["r"],
+      ["dr"],
+      ["d"],
+      ["r"],
+      ["d"],
+      ["dl"],
+      ["r"],
+      ["d"],
+      ["r"],
+      ["r"]
+    ]
+  },
+  {
+    "kanji": "散",
+    "meaning": "scatter, disperse, spend, squander",
+    "kun": "ち.る, ち.らす, -ち.らす, ち.らかす, ち.らかる, ち.らばる, ばら, ばら.ける",
+    "on": "サン",
+    "directions": [
+      ["r"],
+      ["d"],
+      ["d"],
+      ["r"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["r"],
+      ["d"],
+      ["r"],
+      ["d", "dl"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "残",
+    "meaning": "remainder, leftover, balance",
+    "kun": "のこ.る, のこ.す, そこな.う, のこ.り",
+    "on": "ザン, サン",
+    "directions": [
+      ["r"],
+      ["dl"],
+      ["r", "dl"],
+      ["dr"],
+      ["r"],
+      ["r"],
+      ["r"],
+      ["d", "dr", "u"],
+      ["dl"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "氏",
+    "meaning": "family name, surname, clan",
+    "kun": "うじ, -うじ",
+    "on": "シ",
+    "directions": [["dl"], ["d", "ur"], ["r"], ["dr", "dr", "ur"]]
+  },
+  {
+    "kanji": "司",
+    "meaning": "director, official, govt office, rule, administer",
+    "kun": "つかさど.る",
+    "on": "シ",
+    "directions": [["r", "d", "l"], ["r"], ["d"], ["r", "d"], ["r"]]
+  },
+  {
+    "kanji": "試",
+    "meaning": "test, try, attempt, experiment, ordeal",
+    "kun": "こころ.みる, ため.す",
+    "on": "シ",
+    "directions": [
+      ["dr"],
+      ["r"],
+      ["r"],
+      ["r"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["r"],
+      ["r"],
+      ["d"],
+      ["ur"],
+      ["d", "dr", "u"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "児",
+    "meaning": "newborn babe, child, young of animals",
+    "kun": "こ, -こ, -っこ",
+    "on": "ジ, ニ, ゲイ",
+    "directions": [
+      ["d"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["r"],
+      ["dl"],
+      ["d", "r", "ur"]
+    ]
+  },
+  {
+    "kanji": "治",
+    "meaning": "reign, be at peace, calm down, subdue, quell, govt, cure, heal, rule, conserve",
+    "kun": "おさ.める, おさ.まる, なお.る, なお.す",
+    "on": "ジ, チ",
+    "directions": [
+      ["dr"],
+      ["dr"],
+      ["ur"],
+      ["dl", "r"],
+      ["dr"],
+      ["d"],
+      ["r", "d"],
+      ["r"]
+    ]
+  },
+  {
+    "kanji": "滋",
+    "meaning": "nourishing, more &amp; more, be luxuriant, planting, turbidity",
+    "kun": "",
+    "on": "ジ, シ",
+    "directions": [
+      ["dr"],
+      ["dr"],
+      ["ur"],
+      ["dr"],
+      ["dl"],
+      ["r"],
+      ["dl", "dr"],
+      ["dl", "r"],
+      ["dr"],
+      ["dl", "dr"],
+      ["dl", "r"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "辞",
+    "meaning": "resign, word, term, expression",
+    "kun": "や.める, いな.む",
+    "on": "ジ",
+    "directions": [
+      ["dl"],
+      ["r"],
+      ["d"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["d"],
+      ["r"],
+      ["dr"],
+      ["d"],
+      ["r"],
+      ["r"],
+      ["d"]
+    ]
+  },
+  {
+    "kanji": "鹿",
+    "meaning": "deer",
+    "kun": "しか, か",
+    "on": "ロク",
+    "directions": [
+      ["d"],
+      ["r"],
+      ["d"],
+      ["r", "d"],
+      ["d"],
+      ["d"],
+      ["r"],
+      ["r"],
+      ["d", "r"],
+      ["dl"],
+      ["d", "r"]
+    ]
+  },
+  {
+    "kanji": "失",
+    "meaning": "lose, error, fault, disadvantage, loss",
+    "kun": "うしな.う, う.せる",
+    "on": "シツ",
+    "directions": [["dl"], ["r"], ["r"], ["d", "dl"], ["dr"]]
+  },
+  {
+    "kanji": "借",
+    "meaning": "borrow, rent",
+    "kun": "か.りる",
+    "on": "シャク",
+    "directions": [
+      ["dl"],
+      ["d"],
+      ["r"],
+      ["d"],
+      ["d"],
+      ["r"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["r"]
+    ]
+  },
+  {
+    "kanji": "種",
+    "meaning": "species, kind, class, variety, seed",
+    "kun": "たね, -ぐさ",
+    "on": "シュ",
+    "directions": [
+      ["dl"],
+      ["r"],
+      ["d"],
+      ["dl"],
+      ["dr"],
+      ["dl"],
+      ["r"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["r"],
+      ["d"],
+      ["r"],
+      ["r"]
+    ]
+  },
+  {
+    "kanji": "周",
+    "meaning": "circumference, circuit, lap",
+    "kun": "まわ.り",
+    "on": "シュウ",
+    "directions": [
+      ["d", "dl"],
+      ["r", "d", "l"],
+      ["r"],
+      ["d"],
+      ["r"],
+      ["d"],
+      ["r", "d"],
+      ["r"]
+    ]
+  },
+  {
+    "kanji": "祝",
+    "meaning": "celebrate, congratulate",
+    "kun": "いわ.う",
+    "on": "シュク, シュウ",
+    "directions": [
+      ["dr"],
+      ["r", "dl"],
+      ["d"],
+      ["dr"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["dl"],
+      ["d", "r", "u"]
+    ]
+  },
+  {
+    "kanji": "順",
+    "meaning": "obey, order, turn, right, docility, occasion",
+    "kun": "",
+    "on": "ジュン",
+    "directions": [
+      ["d"],
+      ["d"],
+      ["d"],
+      ["r"],
+      ["dl"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["r"],
+      ["r"],
+      ["dl"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "初",
+    "meaning": "first time, beginning",
+    "kun": "はじ.め, はじ.めて, はつ, はつ-, うい-, -そ.める, -ぞ.め",
+    "on": "ショ",
+    "directions": [
+      ["dr"],
+      ["r", "dl"],
+      ["d"],
+      ["dl"],
+      ["dr"],
+      ["r", "d", "l"],
+      ["dl"]
+    ]
+  },
+  {
+    "kanji": "松",
+    "meaning": "pine tree",
+    "kun": "まつ",
+    "on": "ショウ",
+    "directions": [
+      ["r"],
+      ["d"],
+      ["dl"],
+      ["dr"],
+      ["dl"],
+      ["dr"],
+      ["dl", "r"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "笑",
+    "meaning": "laugh",
+    "kun": "わら.う, え.む",
+    "on": "ショウ",
+    "directions": [
+      ["dl"],
+      ["r"],
+      ["dr"],
+      ["dl"],
+      ["r"],
+      ["dl"],
+      ["dl"],
+      ["r"],
+      ["d", "dl"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "唱",
+    "meaning": "chant, recite, call upon, yell",
+    "kun": "とな.える",
+    "on": "ショウ",
+    "directions": [
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["r"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["r"]
+    ]
+  },
+  {
+    "kanji": "焼",
+    "meaning": "bake, burning",
+    "kun": "や.く, や.き, や.き-, -や.き, や.ける",
+    "on": "ショウ",
+    "directions": [
+      ["d"],
+      ["dl"],
+      ["d", "dl"],
+      ["dr"],
+      ["r"],
+      ["d"],
+      ["r"],
+      ["d"],
+      ["d"],
+      ["r"],
+      ["dl"],
+      ["d", "r", "ur"]
+    ]
+  },
+  {
+    "kanji": "照",
+    "meaning": "illuminate, shine, compare, bashful",
+    "kun": "て.る, て.らす, て.れる",
+    "on": "ショウ",
+    "directions": [
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["r"],
+      ["r", "d", "l"],
+      ["dl"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["dl"],
+      ["d"],
+      ["dr"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "城",
+    "meaning": "castle",
+    "kun": "しろ",
+    "on": "ジョウ, セイ",
+    "directions": [
+      ["r"],
+      ["d"],
+      ["ur"],
+      ["d"],
+      ["r"],
+      ["r", "d"],
+      ["d", "dr", "u"],
+      ["dl"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "縄",
+    "meaning": "straw rope, cord",
+    "kun": "なわ, ただ.す",
+    "on": "ジョウ",
+    "directions": [
+      ["dl", "dr"],
+      ["dl", "r"],
+      ["dr"],
+      ["d"],
+      ["d"],
+      ["d"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["r"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["r"],
+      ["d", "r", "ur"]
+    ]
+  },
+  {
+    "kanji": "臣",
+    "meaning": "retainer, subject",
+    "kun": "",
+    "on": "シン, ジン",
+    "directions": [["d"], ["r"], ["d"], ["r", "d"], ["r"], ["d"], ["r"]]
+  },
+  {
+    "kanji": "信",
+    "meaning": "faith, truth, fidelity, trust",
+    "kun": "",
+    "on": "シン",
+    "directions": [
+      ["dl"],
+      ["d"],
+      ["dr"],
+      ["r"],
+      ["r"],
+      ["r"],
+      ["d"],
+      ["r", "d"],
+      ["r"]
+    ]
+  },
+  {
+    "kanji": "井",
+    "meaning": "well, well crib, town, community",
+    "kun": "い",
+    "on": "セイ, ショウ",
+    "directions": [["r"], ["r"], ["d", "dl"], ["d"]]
+  },
+  {
+    "kanji": "成",
+    "meaning": "turn into, become, get, grow, elapse, reach",
+    "kun": "な.る, な.す, -な.す",
+    "on": "セイ, ジョウ",
+    "directions": [
+      ["d", "dl"],
+      ["r"],
+      ["r", "d", "l"],
+      ["d", "dr", "u"],
+      ["dl"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "省",
+    "meaning": "government ministry, conserve, omit",
+    "kun": "かえり.みる, はぶ.く",
+    "on": "セイ, ショウ",
+    "directions": [
+      ["d", "l"],
+      ["dl"],
+      ["dr"],
+      ["dl", "dl"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["r"],
+      ["r"]
+    ]
+  },
+  {
+    "kanji": "清",
+    "meaning": "pure, purify, cleanse, exorcise, Manchu dynasty",
+    "kun": "きよ.い, きよ.まる, きよ.める",
+    "on": "セイ, ショウ, シン",
+    "directions": [
+      ["dr"],
+      ["dr"],
+      ["ur"],
+      ["r"],
+      ["d"],
+      ["r"],
+      ["r"],
+      ["d"],
+      ["r", "d", "l"],
+      ["r"],
+      ["r"]
+    ]
+  },
+  {
+    "kanji": "静",
+    "meaning": "quiet",
+    "kun": "しず-, しず.か, しず.まる, しず.める",
+    "on": "セイ, ジョウ",
+    "directions": [
+      ["r"],
+      ["d"],
+      ["r"],
+      ["r"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["r"],
+      ["dl"],
+      ["r", "dl"],
+      ["r", "d"],
+      ["r"],
+      ["r"],
+      ["d", "l"]
+    ]
+  },
+  {
+    "kanji": "席",
+    "meaning": "seat, mat, occasion, place",
+    "kun": "むしろ",
+    "on": "セキ",
+    "directions": [
+      ["d"],
+      ["r"],
+      ["d", "dl"],
+      ["r"],
+      ["d"],
+      ["d"],
+      ["r"],
+      ["d"],
+      ["r", "d", "l"],
+      ["d"]
+    ]
+  },
+  {
+    "kanji": "積",
+    "meaning": "volume, product (x*y), acreage, contents, pile up, stack, load, amass",
+    "kun": "つ.む, -づ.み, つ.もる, つ.もり",
+    "on": "セキ",
+    "directions": [
+      ["dl"],
+      ["r"],
+      ["d"],
+      ["dl"],
+      ["dr"],
+      ["r"],
+      ["d"],
+      ["r"],
+      ["r"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["r"],
+      ["r"],
+      ["dl"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "折",
+    "meaning": "fold, break, fracture, bend, yield, submit",
+    "kun": "お.る, おり, お.り, -お.り, お.れる",
+    "on": "セツ, シャク",
+    "directions": [["r"], ["d", "l"], ["ur"], ["dl"], ["d", "dl"], ["r"], ["d"]]
+  },
+  {
+    "kanji": "節",
+    "meaning": "node, season, period, occasion, verse, clause, stanza, honor, joint, knuckle, knob, knot, tune, melody",
+    "kun": "ふし, -ぶし, のっと",
+    "on": "セツ, セチ",
+    "directions": [
+      ["dl"],
+      ["r"],
+      ["dr"],
+      ["dl"],
+      ["r"],
+      ["dl"],
+      ["r", "d"],
+      ["r"],
+      ["r"],
+      ["d", "ur"],
+      ["dr"],
+      ["r", "d", "l"],
+      ["d"]
+    ]
+  },
+  {
+    "kanji": "説",
+    "meaning": "opinion, theory, explanation, rumor",
+    "kun": "と.く",
+    "on": "セツ, ゼイ",
+    "directions": [
+      ["dr"],
+      ["r"],
+      ["r"],
+      ["r"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["dr"],
+      ["dl"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["dl"],
+      ["d", "r", "ur"]
+    ]
+  },
+  {
+    "kanji": "浅",
+    "meaning": "shallow, superficial, frivolous, wretched, shameful",
+    "kun": "あさ.い",
+    "on": "セン",
+    "directions": [
+      ["dr"],
+      ["dr"],
+      ["ur"],
+      ["r"],
+      ["r"],
+      ["r"],
+      ["d", "dr", "ur"],
+      ["dl"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "戦",
+    "meaning": "war, battle, match",
+    "kun": "いくさ, たたか.う, おのの.く, そよ.ぐ, わなな.く",
+    "on": "セン",
+    "directions": [
+      ["dr"],
+      ["dr"],
+      ["dl"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["r"],
+      ["r"],
+      ["d"],
+      ["r"],
+      ["d", "dr", "ur"],
+      ["dl"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "選",
+    "meaning": "elect, select, choose, prefer",
+    "kun": "えら.ぶ, え.る, よ.る",
+    "on": "セン",
+    "directions": [
+      ["r", "d"],
+      ["r"],
+      ["d", "r"],
+      ["r", "d"],
+      ["r"],
+      ["d", "r"],
+      ["r"],
+      ["d"],
+      ["d"],
+      ["r"],
+      ["dl"],
+      ["dr"],
+      ["dr"],
+      ["r", "dl", "dr", "dl"],
+      ["r"]
+    ]
+  },
+  {
+    "kanji": "然",
+    "meaning": "sort of thing, so, if so, in that case, well",
+    "kun": "しか, しか.り, しか.し, さ",
+    "on": "ゼン, ネン",
+    "directions": [
+      ["dl"],
+      ["r", "d", "dl"],
+      ["dr"],
+      ["dr"],
+      ["r"],
+      ["d", "dl"],
+      ["dr"],
+      ["dr"],
+      ["d"],
+      ["d"],
+      ["d"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "争",
+    "meaning": "contend, dispute, argue",
+    "kun": "あらそ.う, いか.でか",
+    "on": "ソウ",
+    "directions": [["dl"], ["r", "dl"], ["r", "d"], ["r"], ["r"], ["d", "l"]]
+  },
+  {
+    "kanji": "倉",
+    "meaning": "godown, warehouse, storehouse, cellar, treasury",
+    "kun": "くら",
+    "on": "ソウ",
+    "directions": [
+      ["dl"],
+      ["dr"],
+      ["r"],
+      ["r", "d"],
+      ["r"],
+      ["r"],
+      ["d", "dl"],
+      ["d"],
+      ["r", "d"],
+      ["r"]
+    ]
+  },
+  {
+    "kanji": "巣",
+    "meaning": "nest, rookery, hive, cobweb, den",
+    "kun": "す, す.くう",
+    "on": "ソウ",
+    "directions": [
+      ["dr"],
+      ["dr"],
+      ["dl"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["r"],
+      ["r"],
+      ["d"],
+      ["dl"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "束",
+    "meaning": "bundle, sheaf, ream, tie in bundles, govern, manage, control",
+    "kun": "たば, たば.ねる, つか, つか.ねる",
+    "on": "ソク",
+    "directions": [["r"], ["d"], ["r", "d"], ["r"], ["d"], ["dl"], ["dr"]]
+  },
+  {
+    "kanji": "側",
+    "meaning": "side, lean, oppose, regret",
+    "kun": "かわ, がわ, そば",
+    "on": "ソク",
+    "directions": [
+      ["dl"],
+      ["d"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["r"],
+      ["r"],
+      ["dl"],
+      ["dr"],
+      ["d"],
+      ["d", "l"]
+    ]
+  },
+  {
+    "kanji": "続",
+    "meaning": "continue, series, sequel",
+    "kun": "つづ.く, つづ.ける, つぐ.ない",
+    "on": "ゾク, ショク, コウ, キョウ",
+    "directions": [
+      ["dl", "dr"],
+      ["dl", "r"],
+      ["dr"],
+      ["d"],
+      ["d"],
+      ["d"],
+      ["r"],
+      ["d"],
+      ["r"],
+      ["d"],
+      ["r", "d"],
+      ["dl"],
+      ["d", "r"]
+    ]
+  },
+  {
+    "kanji": "卒",
+    "meaning": "graduate, soldier, private, die",
+    "kun": "そっ.する, お.える, お.わる, ついに, にわか",
+    "on": "ソツ, シュツ",
+    "directions": [["d"], ["r"], ["dl"], ["dr"], ["dl"], ["dr"], ["r"], ["d"]]
+  },
+  {
+    "kanji": "孫",
+    "meaning": "grandchild, descendants",
+    "kun": "まご",
+    "on": "ソン",
+    "directions": [
+      ["r", "dl"],
+      ["d", "d", "l"],
+      ["ur"],
+      ["dl"],
+      ["dl", "dr"],
+      ["dl", "r"],
+      ["dr"],
+      ["d"],
+      ["dl"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "帯",
+    "meaning": "sash, belt, obi, zone, region",
+    "kun": "お.びる, おび",
+    "on": "タイ",
+    "directions": [
+      ["r"],
+      ["d"],
+      ["d"],
+      ["d"],
+      ["r"],
+      ["d"],
+      ["r", "dr", "dl"],
+      ["d"],
+      ["r", "d", "l"],
+      ["d"]
+    ]
+  },
+  {
+    "kanji": "隊",
+    "meaning": "regiment, party, company, squad",
+    "kun": "",
+    "on": "タイ",
+    "directions": [
+      ["r", "dl"],
+      ["dr", "dl"],
+      ["d"],
+      ["dr"],
+      ["dl"],
+      ["r"],
+      ["dl"],
+      ["dr", "d", "l"],
+      ["dl"],
+      ["dl"],
+      ["dl"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "達",
+    "meaning": "accomplished, reach, arrive, attain",
+    "kun": "-たち",
+    "on": "タツ, ダ",
+    "directions": [
+      ["r"],
+      ["d"],
+      ["r"],
+      ["dr"],
+      ["d"],
+      ["r"],
+      ["r"],
+      ["r"],
+      ["d"],
+      ["dr"],
+      ["r", "dl", "dr", "dl"],
+      ["r"]
+    ]
+  },
+  {
+    "kanji": "単",
+    "meaning": "simple, one, single, merely",
+    "kun": "ひとえ",
+    "on": "タン",
+    "directions": [
+      ["dr"],
+      ["dr"],
+      ["dl"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["r"],
+      ["r"],
+      ["d"]
+    ]
+  },
+  {
+    "kanji": "置",
+    "meaning": "placement, put, set, deposit, leave behind, keep, employ, pawn",
+    "kun": "お.く, -お.き",
+    "on": "チ",
+    "directions": [
+      ["d"],
+      ["r", "d"],
+      ["d"],
+      ["d"],
+      ["r"],
+      ["r"],
+      ["d"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["r"],
+      ["r"],
+      ["d", "r"]
+    ]
+  },
+  {
+    "kanji": "仲",
+    "meaning": "go-between, relationship",
+    "kun": "なか",
+    "on": "チュウ",
+    "directions": [["dl"], ["d"], ["d"], ["r", "d"], ["r"], ["d"]]
+  },
+  {
+    "kanji": "沖",
+    "meaning": "open sea, offing, rise high into sky",
+    "kun": "おき, おきつ, ちゅう.する, わく",
+    "on": "チュウ",
+    "directions": [["dr"], ["dr"], ["ur"], ["d"], ["r", "d"], ["r"], ["d"]]
+  },
+  {
+    "kanji": "兆",
+    "meaning": "portent, 10**12, trillion, sign, omen, symptoms",
+    "kun": "きざ.す, きざ.し",
+    "on": "チョウ",
+    "directions": [
+      ["d", "dl"],
+      ["dr"],
+      ["ur"],
+      ["d", "r", "ur"],
+      ["dl"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "低",
+    "meaning": "lower, short, humble",
+    "kun": "ひく.い, ひく.める, ひく.まる",
+    "on": "テイ",
+    "directions": [
+      ["dl"],
+      ["d"],
+      ["dl"],
+      ["d", "ur"],
+      ["r"],
+      ["d", "dr", "ur"],
+      ["r"]
+    ]
+  },
+  {
+    "kanji": "底",
+    "meaning": "bottom, sole, depth, bottom price, base, kind, sort",
+    "kun": "そこ",
+    "on": "テイ",
+    "directions": [
+      ["d"],
+      ["r"],
+      ["d", "dl"],
+      ["dl"],
+      ["d", "ur"],
+      ["r"],
+      ["dr", "dr", "ur"],
+      ["r"]
+    ]
+  },
+  {
+    "kanji": "的",
+    "meaning": "bull&#39;s eye, mark, target, object, adjective ending",
+    "kun": "まと",
+    "on": "テキ",
+    "directions": [
+      ["dl"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["r"],
+      ["dl"],
+      ["r", "d", "dl"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "典",
+    "meaning": "code, ceremony, law, rule",
+    "kun": "ふみ, のり",
+    "on": "テン, デン",
+    "directions": [
+      ["d"],
+      ["r", "d"],
+      ["d"],
+      ["d"],
+      ["r"],
+      ["r"],
+      ["dl"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "伝",
+    "meaning": "transmit, go along, walk along, follow, report, communicate, legend, tradition",
+    "kun": "つた.わる, つた.える, つた.う, つだ.う, -づた.い, つて",
+    "on": "デン, テン",
+    "directions": [["dl"], ["d"], ["r"], ["r"], ["dl", "r"], ["dr"]]
+  },
+  {
+    "kanji": "徒",
+    "meaning": "on foot, junior, emptiness, vanity, futility, uselessness, ephemeral thing, gang, set, party, people",
+    "kun": "いたずら, あだ",
+    "on": "ト",
+    "directions": [
+      ["dl"],
+      ["dl"],
+      ["d"],
+      ["r"],
+      ["d"],
+      ["r"],
+      ["d"],
+      ["r"],
+      ["dl"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "努",
+    "meaning": "toil, diligent, as much as possible",
+    "kun": "つと.める",
+    "on": "ド",
+    "directions": [
+      ["d", "dr"],
+      ["d", "dl"],
+      ["r"],
+      ["r", "dl"],
+      ["dr"],
+      ["r", "d", "l"],
+      ["d", "dl"]
+    ]
+  },
+  {
+    "kanji": "灯",
+    "meaning": "lamp, a light, light, counter for lights",
+    "kun": "ひ, ほ-, ともしび, とも.す, あかり",
+    "on": "トウ",
+    "directions": [["d"], ["dl"], ["d", "dl"], ["dr"], ["r"], ["d", "l"]]
+  },
+  {
+    "kanji": "働",
+    "meaning": "work, (kokuji)",
+    "kun": "はたら.く",
+    "on": "ドウ",
+    "directions": [
+      ["dl"],
+      ["d"],
+      ["dl"],
+      ["r"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["r"],
+      ["d"],
+      ["r"],
+      ["r"],
+      ["r", "d", "dl"],
+      ["d", "dl"]
+    ]
+  },
+  {
+    "kanji": "特",
+    "meaning": "special",
+    "kun": "",
+    "on": "トク",
+    "directions": [
+      ["d"],
+      ["r"],
+      ["d"],
+      ["ur"],
+      ["r"],
+      ["d"],
+      ["r"],
+      ["r"],
+      ["d", "l"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "徳",
+    "meaning": "benevolence, virtue, goodness, commanding respect",
+    "kun": "",
+    "on": "トク",
+    "directions": [
+      ["dl"],
+      ["dl"],
+      ["d"],
+      ["r"],
+      ["d"],
+      ["d"],
+      ["r", "d"],
+      ["d"],
+      ["d"],
+      ["r"],
+      ["d"],
+      ["dr", "r", "ul"],
+      ["dr"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "栃",
+    "meaning": "horse chestnut, (kokuji)",
+    "kun": "とち",
+    "on": "",
+    "directions": [
+      ["r"],
+      ["d"],
+      ["dl"],
+      ["dr"],
+      ["dl"],
+      ["d"],
+      ["r"],
+      ["r", "dl"],
+      ["dl"]
+    ]
+  },
+  {
+    "kanji": "奈",
+    "meaning": "Nara, what?",
+    "kun": "いかん, からなし",
+    "on": "ナ, ナイ, ダイ",
+    "directions": [
+      ["r"],
+      ["dl", "dl"],
+      ["dr"],
+      ["r"],
+      ["r"],
+      ["d", "l"],
+      ["dl"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "梨",
+    "meaning": "pear tree",
+    "kun": "なし",
+    "on": "リ",
+    "directions": [
+      ["dl"],
+      ["r"],
+      ["d"],
+      ["dl"],
+      ["dr"],
+      ["d"],
+      ["d", "l"],
+      ["r"],
+      ["d"],
+      ["dl"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "熱",
+    "meaning": "heat, temperature, fever, mania, passion",
+    "kun": "あつ.い",
+    "on": "ネツ",
+    "directions": [
+      ["r"],
+      ["d"],
+      ["r"],
+      ["dl"],
+      ["d", "r"],
+      ["r"],
+      ["d"],
+      ["r"],
+      ["d", "dl"],
+      ["r", "d", "r", "ur"],
+      ["dr"],
+      ["dl"],
+      ["d"],
+      ["dr"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "念",
+    "meaning": "wish, sense, idea, thought, feeling, desire, attention",
+    "kun": "",
+    "on": "ネン",
+    "directions": [
+      ["dl"],
+      ["dr"],
+      ["r"],
+      ["r", "dl"],
+      ["dl"],
+      ["dr", "r", "u"],
+      ["dr"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "敗",
+    "meaning": "failure, defeat, reversal",
+    "kun": "やぶ.れる",
+    "on": "ハイ",
+    "directions": [
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["r"],
+      ["r"],
+      ["dl"],
+      ["dr"],
+      ["dl"],
+      ["r"],
+      ["d", "dl"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "梅",
+    "meaning": "plum",
+    "kun": "うめ",
+    "on": "バイ",
+    "directions": [
+      ["r"],
+      ["d"],
+      ["dl"],
+      ["dr"],
+      ["dl"],
+      ["r"],
+      ["d", "r"],
+      ["r", "d", "dl"],
+      ["d"],
+      ["r"]
+    ]
+  },
+  {
+    "kanji": "博",
+    "meaning": "Dr., command, esteem, win acclaim, Ph.D., exposition, fair",
+    "kun": "",
+    "on": "ハク, バク",
+    "directions": [
+      ["r"],
+      ["d"],
+      ["r"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["r"],
+      ["d"],
+      ["dr"],
+      ["r"],
+      ["d", "l"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "阪",
+    "meaning": "heights, slope",
+    "kun": "さか",
+    "on": "ハン",
+    "directions": [
+      ["r", "dl"],
+      ["dr", "dl"],
+      ["d"],
+      ["r"],
+      ["d", "dl"],
+      ["r", "dl", "dl"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "飯",
+    "meaning": "meal, boiled rice",
+    "kun": "めし",
+    "on": "ハン",
+    "directions": [
+      ["dl"],
+      ["dr"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["r"],
+      ["d", "ur"],
+      ["dr"],
+      ["r"],
+      ["d", "dl"],
+      ["r", "dl", "dl"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "飛",
+    "meaning": "fly, skip (pages), scatter",
+    "kun": "と.ぶ, と.ばす, -と.ばす",
+    "on": "ヒ",
+    "directions": [
+      ["r", "d", "dr", "u"],
+      ["dl"],
+      ["dr"],
+      ["d"],
+      ["dl"],
+      ["d"],
+      ["r", "d", "dr", "ur"],
+      ["dl"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "必",
+    "meaning": "invariably, certain, inevitable",
+    "kun": "かなら.ず",
+    "on": "ヒツ",
+    "directions": [["dr"], ["dl", "dl"], ["dr", "r", "u"], ["d"], ["dr"]]
+  },
+  {
+    "kanji": "票",
+    "meaning": "ballot, label, ticket, sign",
+    "kun": "",
+    "on": "ヒョウ",
+    "directions": [
+      ["r"],
+      ["d"],
+      ["r", "d"],
+      ["d"],
+      ["d"],
+      ["r"],
+      ["r"],
+      ["r"],
+      ["d", "l"],
+      ["dl"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "標",
+    "meaning": "signpost, seal, mark, stamp, imprint, symbol, emblem, trademark, evidence, souvenir, target",
+    "kun": "しるべ, しるし",
+    "on": "ヒョウ",
+    "directions": [
+      ["r"],
+      ["d"],
+      ["dl"],
+      ["dr"],
+      ["r"],
+      ["d"],
+      ["r", "d"],
+      ["d"],
+      ["d"],
+      ["r"],
+      ["r"],
+      ["r"],
+      ["d", "l"],
+      ["dl"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "不",
+    "meaning": "negative, non-, bad, ugly, clumsy",
+    "kun": "",
+    "on": "フ, ブ",
+    "directions": [["r"], ["dl", "dl"], ["d"], ["dr"]]
+  },
+  {
+    "kanji": "夫",
+    "meaning": "husband, man",
+    "kun": "おっと, それ",
+    "on": "フ, フウ, ブ",
+    "directions": [["r"], ["r"], ["d", "dl"], ["dr"]]
+  },
+  {
+    "kanji": "付",
+    "meaning": "adhere, attach, refer to, append",
+    "kun": "つ.ける, -つ.ける, -づ.ける, つ.け, つ.け-, -つ.け, -づ.け, -づけ, つ.く, -づ.く, つ.き, -つ.き, -つき, -づ.き, -づき",
+    "on": "フ",
+    "directions": [["dl"], ["d"], ["r"], ["d", "l"], ["dr"]]
+  },
+  {
+    "kanji": "府",
+    "meaning": "borough, urban prefecture, govt office, representative body, storehouse",
+    "kun": "",
+    "on": "フ",
+    "directions": [
+      ["d"],
+      ["r"],
+      ["d"],
+      ["dl"],
+      ["d"],
+      ["r"],
+      ["d", "l"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "阜",
+    "meaning": "hill, mound, left village radical (no. 170)",
+    "kun": "",
+    "on": "フ, フウ",
+    "directions": [
+      ["dl"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["r", "d"],
+      ["r"],
+      ["r"],
+      ["d"]
+    ]
+  },
+  {
+    "kanji": "富",
+    "meaning": "wealth, enrich, abundant",
+    "kun": "と.む, とみ",
+    "on": "フ, フウ",
+    "directions": [
+      ["d"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["d"],
+      ["r", "d"],
+      ["d"],
+      ["r"],
+      ["r"]
+    ]
+  },
+  {
+    "kanji": "副",
+    "meaning": "vice-, assistant, aide, duplicate, copy",
+    "kun": "",
+    "on": "フク",
+    "directions": [
+      ["r"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["d"],
+      ["r", "d"],
+      ["d"],
+      ["r"],
+      ["r"],
+      ["d"],
+      ["d", "l"]
+    ]
+  },
+  {
+    "kanji": "兵",
+    "meaning": "soldier, private, troops, army, warfare, strategy, tactics",
+    "kun": "つわもの",
+    "on": "ヘイ, ヒョウ",
+    "directions": [["dl"], ["d"], ["r"], ["d"], ["r"], ["dl"], ["dr"]]
+  },
+  {
+    "kanji": "別",
+    "meaning": "separate, branch off, diverge, fork, another, extra, specially",
+    "kun": "わか.れる, わ.ける",
+    "on": "ベツ",
+    "directions": [
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["r", "dl", "l"],
+      ["dl"],
+      ["d"],
+      ["d", "l"]
+    ]
+  },
+  {
+    "kanji": "辺",
+    "meaning": "environs, boundary, border, vicinity",
+    "kun": "あた.り, ほと.り, -べ",
+    "on": "ヘン",
+    "directions": [
+      ["r", "d", "l"],
+      ["dl"],
+      ["dr"],
+      ["r", "dl", "dr", "dl"],
+      ["r"]
+    ]
+  },
+  {
+    "kanji": "変",
+    "meaning": "unusual, change, strange",
+    "kun": "か.わる, か.わり, か.える",
+    "on": "ヘン",
+    "directions": [
+      ["d"],
+      ["r"],
+      ["dl"],
+      ["d", "l"],
+      ["dl"],
+      ["dr"],
+      ["dl"],
+      ["r", "d", "dl"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "便",
+    "meaning": "convenience, facility, excrement, feces, letter, chance",
+    "kun": "たよ.り",
+    "on": "ベン, ビン",
+    "directions": [
+      ["dl"],
+      ["d"],
+      ["r"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["r"],
+      ["d", "dl"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "包",
+    "meaning": "wrap, pack up, cover, conceal",
+    "kun": "つつ.む, くる.む",
+    "on": "ホウ",
+    "directions": [["dl"], ["r", "d", "l"], ["r", "d"], ["r"], ["d", "r", "ur"]]
+  },
+  {
+    "kanji": "法",
+    "meaning": "method, law, rule, principle, model, system",
+    "kun": "のり",
+    "on": "ホウ, ハッ, ホッ, フラン",
+    "directions": [
+      ["dr"],
+      ["dr"],
+      ["ur"],
+      ["r"],
+      ["d"],
+      ["r"],
+      ["dl", "r"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "望",
+    "meaning": "ambition, full moon, hope, desire, aspire to, expect",
+    "kun": "のぞ.む, もち",
+    "on": "ボウ, モウ",
+    "directions": [
+      ["d"],
+      ["r"],
+      ["d", "r"],
+      ["d"],
+      ["r", "d", "l"],
+      ["r"],
+      ["r"],
+      ["r"],
+      ["d"],
+      ["r"],
+      ["r"]
+    ]
+  },
+  {
+    "kanji": "牧",
+    "meaning": "breed, care for, shepherd, feed, pasture",
+    "kun": "まき",
+    "on": "ボク",
+    "directions": [
+      ["dl"],
+      ["r"],
+      ["d"],
+      ["ur"],
+      ["d"],
+      ["r"],
+      ["d", "dl"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "末",
+    "meaning": "end, close, tip, powder, posterity",
+    "kun": "すえ, うら, うれ",
+    "on": "マツ, バツ",
+    "directions": [["r"], ["r"], ["d"], ["dl"], ["dr"]]
+  },
+  {
+    "kanji": "満",
+    "meaning": "full, fullness, enough, satisfy",
+    "kun": "み.ちる, み.つ, み.たす",
+    "on": "マン, バン",
+    "directions": [
+      ["dr"],
+      ["dr"],
+      ["ur"],
+      ["r"],
+      ["d"],
+      ["d"],
+      ["r"],
+      ["d"],
+      ["r", "d", "l"],
+      ["d"],
+      ["d", "r"],
+      ["d"]
+    ]
+  },
+  {
+    "kanji": "未",
+    "meaning": "un-, not yet, hitherto, still, even now, sign of the ram, 1-3PM, eighth sign of Chinese zodiac",
+    "kun": "いま.だ, ま.だ, ひつじ",
+    "on": "ミ, ビ",
+    "directions": [["r"], ["r"], ["d"], ["dl"], ["dr"]]
+  },
+  {
+    "kanji": "民",
+    "meaning": "people, nation, subjects",
+    "kun": "たみ",
+    "on": "ミン",
+    "directions": [["r", "d"], ["r"], ["d", "ur"], ["r"], ["dr", "dr", "ur"]]
+  },
+  {
+    "kanji": "無",
+    "meaning": "nothingness, none, ain&#39;t, nothing, nil, not",
+    "kun": "な.い",
+    "on": "ム, ブ",
+    "directions": [
+      ["dl"],
+      ["r"],
+      ["r"],
+      ["d"],
+      ["d"],
+      ["d"],
+      ["d"],
+      ["r"],
+      ["dl"],
+      ["dr"],
+      ["dr"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "約",
+    "meaning": "promise, approximately, shrink",
+    "kun": "つづ.まる, つづ.める, つづま.やか",
+    "on": "ヤク",
+    "directions": [
+      ["dl", "dr"],
+      ["dl", "r"],
+      ["dr"],
+      ["d"],
+      ["dl"],
+      ["dr"],
+      ["dl"],
+      ["r", "d", "dl", "ul"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "勇",
+    "meaning": "courage, cheer up, be in high spirits, bravery, heroism",
+    "kun": "いさ.む",
+    "on": "ユウ",
+    "directions": [
+      ["r", "dl"],
+      ["dr"],
+      ["d"],
+      ["r", "d"],
+      ["d"],
+      ["r"],
+      ["r"],
+      ["r", "d", "l"],
+      ["dl"]
+    ]
+  },
+  {
+    "kanji": "要",
+    "meaning": "need, main point, essence, pivot, key to",
+    "kun": "い.る, かなめ",
+    "on": "ヨウ",
+    "directions": [
+      ["r"],
+      ["d"],
+      ["r", "d"],
+      ["d"],
+      ["d"],
+      ["r"],
+      ["dl", "dr"],
+      ["dl", "dl"],
+      ["r"]
+    ]
+  },
+  {
+    "kanji": "養",
+    "meaning": "foster, bring up, rear, develop, nurture",
+    "kun": "やしな.う",
+    "on": "ヨウ, リョウ",
+    "directions": [
+      ["dr"],
+      ["dl"],
+      ["r"],
+      ["d"],
+      ["r"],
+      ["r"],
+      ["dl"],
+      ["dr"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["r"],
+      ["d", "r"],
+      ["dl"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "浴",
+    "meaning": "bathe, be favored with, bask in",
+    "kun": "あ.びる, あ.びせる",
+    "on": "ヨク",
+    "directions": [
+      ["dr"],
+      ["dr"],
+      ["ur"],
+      ["dl"],
+      ["dr"],
+      ["dl"],
+      ["dr"],
+      ["d"],
+      ["r", "d"],
+      ["r"]
+    ]
+  },
+  {
+    "kanji": "利",
+    "meaning": "profit, advantage, benefit",
+    "kun": "き.く",
+    "on": "リ",
+    "directions": [["dl"], ["r"], ["d"], ["dl"], ["dr"], ["d"], ["d", "l"]]
+  },
+  {
+    "kanji": "陸",
+    "meaning": "land, six",
+    "kun": "おか",
+    "on": "リク, ロク",
+    "directions": [
+      ["r", "dl"],
+      ["dr", "dl"],
+      ["d"],
+      ["r"],
+      ["d"],
+      ["r"],
+      ["dl"],
+      ["d", "r"],
+      ["r"],
+      ["d"],
+      ["r"]
+    ]
+  },
+  {
+    "kanji": "良",
+    "meaning": "good, pleasing, skilled",
+    "kun": "よ.い, -よ.い, い.い, -い.い",
+    "on": "リョウ",
+    "directions": [["d"], ["r", "d"], ["r"], ["r"], ["d", "ur"], ["dl"], ["dr"]]
+  },
+  {
+    "kanji": "料",
+    "meaning": "fee, materials",
+    "kun": "",
+    "on": "リョウ",
+    "directions": [
+      ["dr"],
+      ["dl"],
+      ["r"],
+      ["d"],
+      ["dl"],
+      ["dr"],
+      ["dr"],
+      ["dr"],
+      ["r"],
+      ["d"]
+    ]
+  },
+  {
+    "kanji": "量",
+    "meaning": "quantity, measure, weight, amount, consider, estimate, surmise",
+    "kun": "はか.る",
+    "on": "リョウ",
+    "directions": [
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["r"],
+      ["r"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["r"],
+      ["d"],
+      ["r"],
+      ["r"]
+    ]
+  },
+  {
+    "kanji": "輪",
+    "meaning": "wheel, ring, circle, link, loop, counter for wheels and flowers",
+    "kun": "わ",
+    "on": "リン",
+    "directions": [
+      ["r"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["r"],
+      ["r"],
+      ["d"],
+      ["dl"],
+      ["dr"],
+      ["r"],
+      ["d"],
+      ["r", "d", "l"],
+      ["r"],
+      ["d"],
+      ["d"]
+    ]
+  },
+  {
+    "kanji": "類",
+    "meaning": "sort, kind, variety, class, genus",
+    "kun": "たぐ.い",
+    "on": "ルイ",
+    "directions": [
+      ["dr"],
+      ["dl"],
+      ["r"],
+      ["d"],
+      ["dl"],
+      ["dr"],
+      ["r"],
+      ["d", "dl"],
+      ["dr"],
+      ["r"],
+      ["dl"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["r"],
+      ["r"],
+      ["dl"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "令",
+    "meaning": "orders, laws, command, decree, good",
+    "kun": "",
+    "on": "レイ",
+    "directions": [["dl"], ["dr"], ["dr"], ["r", "dl"], ["dr"]]
+  },
+  {
+    "kanji": "冷",
+    "meaning": "cool, cold (beer, person), chill",
+    "kun": "つめ.たい, ひ.える, ひ.や, ひ.ややか, ひ.やす, ひ.やかす, さ.める, さ.ます",
+    "on": "レイ",
+    "directions": [["dr"], ["ur"], ["dl"], ["dr"], ["dr"], ["r", "dl"], ["dr"]]
+  },
+  {
+    "kanji": "例",
+    "meaning": "example, custom, usage, precedent",
+    "kun": "たと.える",
+    "on": "レイ",
+    "directions": [
+      ["dl"],
+      ["d"],
+      ["r"],
+      ["dl"],
+      ["r", "d", "dl"],
+      ["dr"],
+      ["d"],
+      ["d", "l"]
+    ]
+  },
+  {
+    "kanji": "連",
+    "meaning": "take along, lead, join, connect, party, gang, clique",
+    "kun": "つら.なる, つら.ねる, つ.れる, -づ.れ",
+    "on": "レン",
+    "directions": [
+      ["r"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["r"],
+      ["r"],
+      ["d"],
+      ["dr"],
+      ["r", "dl", "dr", "dl"],
+      ["r"]
+    ]
+  },
+  {
+    "kanji": "老",
+    "meaning": "old man, old age, grow old",
+    "kun": "お.いる, ふ.ける",
+    "on": "ロウ",
+    "directions": [["r"], ["d"], ["r"], ["dl", "dl"], ["dl"], ["d", "r", "ur"]]
+  },
+  {
+    "kanji": "労",
+    "meaning": "labor, thank for, reward for, toil, trouble",
+    "kun": "ろう.する, いたわ.る, いた.ずき, ねぎら, つか.れる, ねぎら.う",
+    "on": "ロウ",
+    "directions": [
+      ["dr"],
+      ["dr"],
+      ["dl"],
+      ["d"],
+      ["r", "d"],
+      ["r", "d", "l"],
+      ["d", "dl"]
+    ]
+  },
+  {
+    "kanji": "録",
+    "meaning": "record",
+    "kun": "しる.す, と.る",
+    "on": "ロク",
+    "directions": [
+      ["dl"],
+      ["dr"],
+      ["r"],
+      ["r"],
+      ["d"],
+      ["dr"],
+      ["d"],
+      ["r"],
+      ["r", "d"],
+      ["r"],
+      ["r"],
+      ["d", "l"],
+      ["dr"],
+      ["ur"],
+      ["dl"],
+      ["dr"]
+    ]
+  }
+]

@@ -1,0 +1,115 @@
+:root {
+  --red: #bc002d; /* Crimson Glory, from the flag */
+  --pink: #f9cfc2;
+  --pink-light: #f8e9da;
+  --beige: #ddcfc5;
+  --brown-light: #e3cbc1;
+  --brown: #b89081;
+  --dark: #55527c;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  height: 100vh;
+
+  background-color: var(--pink);
+  color: var(--dark);
+}
+html {
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+.col {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-grow: 1;
+}
+.row {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  flex-grow: 1;
+}
+.btn {
+  border: none;
+  background-color: var(--pink-light);
+  color: var(--dark);
+  font-size: 1.2rem;
+  /* align-self: center; */
+  text-align: center;
+
+  padding: 0.5rem;
+  border-radius: 0.25rem;
+}
+.btn.btn_wide {
+}
+
+.btn-wide {
+  align-self: stretch;
+}
+/* .img-container {
+  width: 100%;
+  max-width: 200px;
+  overflow: auto;
+} */
+.img {
+  height: 6rem;
+  /* width: 100%; */
+  /* max-width: 250px; */
+}
+.drawing {
+  border: 4px solid var(--brown);
+  background-color: var(--pink-light);
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+}
+@media screen and (min-width: 420px) {
+  .container {
+    max-width: 600px;
+    font-size: 2rem;
+    margin: 0 auto;
+  }
+  select {
+    font-size: 2rem;
+  }
+  canvas {
+    width: 320px;
+    height: 320px;
+  }
+}
+.selects {
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+.header {
+  padding: 0;
+  margin: 0;
+  font-size: 2.5rem;
+}
+.card {
+  gap: 0.25rem;
+  padding: 0.5rem;
+  align-self: center;
+}
+#output {
+  padding: 0.5rem 0;
+  word-wrap: break-word;
+  width: 100%;
+  min-height: 2rem;
+}

@@ -1,0 +1,678 @@
+[
+  {
+    "kanji": "一",
+    "meaning": "one, one radical (no.1)",
+    "kun": "ひと-, ひと.つ",
+    "on": "イチ, イツ",
+    "directions": [["r"]]
+  },
+  {
+    "kanji": "右",
+    "meaning": "right",
+    "kun": "みぎ",
+    "on": "ウ, ユウ",
+    "directions": [["dl"], ["r"], ["d"], ["r", "d"], ["r"]]
+  },
+  {
+    "kanji": "雨",
+    "meaning": "rain",
+    "kun": "あめ, あま-, -さめ",
+    "on": "ウ",
+    "directions": [
+      ["r"],
+      ["d"],
+      ["r", "d", "l"],
+      ["d"],
+      ["dr"],
+      ["dr"],
+      ["dr"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "円",
+    "meaning": "circle, yen, round",
+    "kun": "まる.い, まる, まど, まど.か, まろ.やか",
+    "on": "エン",
+    "directions": [["d"], ["r", "d", "l"], ["d"], ["r"]]
+  },
+  {
+    "kanji": "王",
+    "meaning": "king, rule, magnate",
+    "kun": "",
+    "on": "オウ, -ノウ",
+    "directions": [["r"], ["d"], ["r"], ["r"]]
+  },
+  {
+    "kanji": "音",
+    "meaning": "sound, noise",
+    "kun": "おと, ね",
+    "on": "オン, イン, -ノン",
+    "directions": [
+      ["d"],
+      ["r"],
+      ["dr"],
+      ["d"],
+      ["r"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["r"]
+    ]
+  },
+  {
+    "kanji": "下",
+    "meaning": "below, down, descend, give, low, inferior",
+    "kun": "した, しも, もと, さ.げる, さ.がる, くだ.る, くだ.り, くだ.す, -くだ.す, くだ.さる, お.ろす, お.りる",
+    "on": "カ, ゲ",
+    "directions": [["r"], ["d"], ["dr"]]
+  },
+  {
+    "kanji": "火",
+    "meaning": "fire",
+    "kun": "ひ, -び, ほ-",
+    "on": "カ",
+    "directions": [["dr"], ["dl"], ["d", "dl"], ["dr"]]
+  },
+  {
+    "kanji": "花",
+    "meaning": "flower",
+    "kun": "はな",
+    "on": "カ, ケ",
+    "directions": [["r"], ["d"], ["d"], ["dl"], ["d"], ["dl"], ["d", "r", "ur"]]
+  },
+  {
+    "kanji": "貝",
+    "meaning": "shellfish",
+    "kun": "かい",
+    "on": "バイ",
+    "directions": [["d"], ["r", "d"], ["r"], ["r"], ["r"], ["dl"], ["dr"]]
+  },
+  {
+    "kanji": "学",
+    "meaning": "study, learning, science",
+    "kun": "まな.ぶ",
+    "on": "ガク",
+    "directions": [
+      ["dr"],
+      ["dr"],
+      ["dl"],
+      ["d"],
+      ["r", "d"],
+      ["r", "dl"],
+      ["d", "dl", "ul"],
+      ["r"]
+    ]
+  },
+  {
+    "kanji": "気",
+    "meaning": "spirit, mind, air, atmosphere, mood",
+    "kun": "いき, き",
+    "on": "キ, ケ",
+    "directions": [["dl"], ["r"], ["r"], ["r", "d", "dr", "ur"], ["dl"], ["dr"]]
+  },
+  {
+    "kanji": "九",
+    "meaning": "nine",
+    "kun": "ここの, ここの.つ",
+    "on": "キュウ, ク",
+    "directions": [
+      ["d", "dl"],
+      ["r", "d", "r", "ur"]
+    ]
+  },
+  {
+    "kanji": "休",
+    "meaning": "rest, day off, retire, sleep",
+    "kun": "やす.む, やす.まる, やす.める",
+    "on": "キュウ",
+    "directions": [["dl"], ["d"], ["r"], ["d"], ["dl"], ["dr"]]
+  },
+  {
+    "kanji": "玉",
+    "meaning": "jewel, ball",
+    "kun": "たま, たま-, -だま",
+    "on": "ギョク",
+    "directions": [["r"], ["d"], ["r"], ["r"], ["dr"]]
+  },
+  {
+    "kanji": "金",
+    "meaning": "gold",
+    "kun": "かね, かな-, -がね",
+    "on": "キン, コン, ゴン",
+    "directions": [["dl"], ["dr"], ["r"], ["r"], ["d"], ["dr"], ["dl"], ["r"]]
+  },
+  {
+    "kanji": "空",
+    "meaning": "empty, sky, void, vacant, vacuum",
+    "kun": "そら, あ.く, あ.き, あ.ける, から, す.く, す.かす, むな.しい",
+    "on": "クウ",
+    "directions": [
+      ["d"],
+      ["d"],
+      ["r", "d"],
+      ["dl"],
+      ["d", "r"],
+      ["r"],
+      ["d"],
+      ["r"]
+    ]
+  },
+  {
+    "kanji": "月",
+    "meaning": "month, moon",
+    "kun": "つき",
+    "on": "ゲツ, ガツ",
+    "directions": [["d", "d"], ["r", "d", "l"], ["r"], ["r"]]
+  },
+  {
+    "kanji": "犬",
+    "meaning": "dog",
+    "kun": "いぬ, いぬ-",
+    "on": "ケン",
+    "directions": [["r"], ["d", "dl"], ["dr"], ["dr"]]
+  },
+  {
+    "kanji": "見",
+    "meaning": "see, hopes, chances, idea, opinion, look at, visible",
+    "kun": "み.る, み.える, み.せる",
+    "on": "ケン",
+    "directions": [
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["r"],
+      ["r"],
+      ["dl"],
+      ["d", "r", "ur"]
+    ]
+  },
+  {
+    "kanji": "五",
+    "meaning": "five",
+    "kun": "いつ, いつ.つ",
+    "on": "ゴ",
+    "directions": [["r"], ["d"], ["r", "d"], ["r"]]
+  },
+  {
+    "kanji": "口",
+    "meaning": "mouth",
+    "kun": "くち",
+    "on": "コウ, ク",
+    "directions": [["d"], ["r", "d"], ["r"]]
+  },
+  {
+    "kanji": "校",
+    "meaning": "exam, school, printing, proof, correction",
+    "kun": "",
+    "on": "コウ, キョウ",
+    "directions": [
+      ["r"],
+      ["d"],
+      ["dl"],
+      ["dr"],
+      ["d"],
+      ["r"],
+      ["dl"],
+      ["dr"],
+      ["dl"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "左",
+    "meaning": "left",
+    "kun": "ひだり",
+    "on": "サ, シャ",
+    "directions": [["r"], ["d", "dl"], ["r"], ["d"], ["r"]]
+  },
+  {
+    "kanji": "三",
+    "meaning": "three",
+    "kun": "み, み.つ, みっ.つ",
+    "on": "サン, ゾウ",
+    "directions": [["r"], ["r"], ["r"]]
+  },
+  {
+    "kanji": "山",
+    "meaning": "mountain",
+    "kun": "やま",
+    "on": "サン, セン",
+    "directions": [["d"], ["d", "r"], ["d"]]
+  },
+  {
+    "kanji": "子",
+    "meaning": "child, sign of the rat, 11PM-1AM, first sign of Chinese zodiac",
+    "kun": "こ, -こ, ね",
+    "on": "シ, ス, ツ",
+    "directions": [["r", "dl"], ["d", "d", "l"], ["r"]]
+  },
+  {
+    "kanji": "四",
+    "meaning": "four",
+    "kun": "よ, よ.つ, よっ.つ, よん",
+    "on": "シ",
+    "directions": [["d"], ["r", "d"], ["dl"], ["d", "r"], ["r"]]
+  },
+  {
+    "kanji": "糸",
+    "meaning": "thread",
+    "kun": "いと",
+    "on": "シ",
+    "directions": [["dl", "dr"], ["dl", "r"], ["dr"], ["d"], ["dl"], ["dr"]]
+  },
+  {
+    "kanji": "字",
+    "meaning": "character, letter, word, section of village",
+    "kun": "あざ, あざな, -な",
+    "on": "ジ",
+    "directions": [
+      ["d"],
+      ["d"],
+      ["r", "d"],
+      ["r", "dl"],
+      ["d", "d", "l"],
+      ["r"]
+    ]
+  },
+  {
+    "kanji": "耳",
+    "meaning": "ear",
+    "kun": "みみ",
+    "on": "ジ",
+    "directions": [["r"], ["d"], ["r"], ["r"], ["r"], ["d"]]
+  },
+  {
+    "kanji": "七",
+    "meaning": "seven",
+    "kun": "なな, なな.つ, なの",
+    "on": "シチ",
+    "directions": [["r"], ["d", "r", "ur"]]
+  },
+  {
+    "kanji": "車",
+    "meaning": "car",
+    "kun": "くるま",
+    "on": "シャ",
+    "directions": [["r"], ["d"], ["r", "d"], ["r"], ["r"], ["r"], ["d"]]
+  },
+  {
+    "kanji": "手",
+    "meaning": "hand",
+    "kun": "て, て-, -て, た-",
+    "on": "シュ, ズ",
+    "directions": [["dl"], ["r"], ["r"], ["d", "d", "l"]]
+  },
+  {
+    "kanji": "十",
+    "meaning": "ten",
+    "kun": "とお, と, そ",
+    "on": "ジュウ, ジッ, ジュッ",
+    "directions": [["r"], ["d"]]
+  },
+  {
+    "kanji": "出",
+    "meaning": "exit, leave, go out, come out, put out, protrude",
+    "kun": "で.る, -で, だ.す, -だ.す, い.でる, い.だす",
+    "on": "シュツ, スイ",
+    "directions": [["d"], ["d", "r"], ["d"], ["d", "r"], ["d"]]
+  },
+  {
+    "kanji": "女",
+    "meaning": "woman, female",
+    "kun": "おんな, め",
+    "on": "ジョ, ニョ, ニョウ",
+    "directions": [["d", "dr"], ["dl", "dl"], ["r"]]
+  },
+  {
+    "kanji": "小",
+    "meaning": "little, small",
+    "kun": "ちい.さい, こ-, お-, さ-",
+    "on": "ショウ",
+    "directions": [["d", "l"], ["dl"], ["dr"]]
+  },
+  {
+    "kanji": "上",
+    "meaning": "above, up",
+    "kun": "うえ, -うえ, うわ-, かみ, あ.げる, -あ.げる, あ.がる, -あ.がる, あ.がり, -あ.がり, のぼ.る, のぼ.り, のぼ.せる, のぼ.す, たてまつ.る",
+    "on": "ジョウ, ショウ, シャン",
+    "directions": [["d"], ["r"], ["r"]]
+  },
+  {
+    "kanji": "森",
+    "meaning": "forest, woods",
+    "kun": "もり",
+    "on": "シン",
+    "directions": [
+      ["r"],
+      ["d"],
+      ["dl"],
+      ["dr"],
+      ["r"],
+      ["d"],
+      ["dl"],
+      ["dr"],
+      ["r"],
+      ["d"],
+      ["dl"],
+      ["dr"]
+    ]
+  },
+  {
+    "kanji": "人",
+    "meaning": "person",
+    "kun": "ひと, -り, -と",
+    "on": "ジン, ニン",
+    "directions": [["d", "dl"], ["dr"]]
+  },
+  {
+    "kanji": "水",
+    "meaning": "water",
+    "kun": "みず, みず-",
+    "on": "スイ",
+    "directions": [["d", "l"], ["r", "dl"], ["dl"], ["dr"]]
+  },
+  {
+    "kanji": "正",
+    "meaning": "correct, justice, righteous, 10**40",
+    "kun": "ただ.しい, ただ.す, まさ, まさ.に",
+    "on": "セイ, ショウ",
+    "directions": [["r"], ["d"], ["r"], ["d"], ["r"]]
+  },
+  {
+    "kanji": "生",
+    "meaning": "life, genuine, birth",
+    "kun": "い.きる, い.かす, い.ける, う.まれる, うま.れる, う.まれ, うまれ, う.む, お.う, は.える, は.やす, き, なま, なま-, な.る, な.す, む.す, -う",
+    "on": "セイ, ショウ",
+    "directions": [["dl"], ["r"], ["d"], ["r"], ["r"]]
+  },
+  {
+    "kanji": "青",
+    "meaning": "blue, green",
+    "kun": "あお, あお-, あお.い",
+    "on": "セイ, ショウ",
+    "directions": [
+      ["r"],
+      ["d"],
+      ["r"],
+      ["r"],
+      ["d"],
+      ["r", "d", "l"],
+      ["r"],
+      ["r"]
+    ]
+  },
+  {
+    "kanji": "夕",
+    "meaning": "evening",
+    "kun": "ゆう",
+    "on": "セキ",
+    "directions": [["dl"], ["r", "d", "dl", "dl"], ["dr"]]
+  },
+  {
+    "kanji": "石",
+    "meaning": "stone",
+    "kun": "いし",
+    "on": "セキ, シャク, コク",
+    "directions": [["r"], ["dl"], ["d"], ["r", "d"], ["r"]]
+  },
+  {
+    "kanji": "赤",
+    "meaning": "red",
+    "kun": "あか, あか-, あか.い, あか.らむ, あか.らめる",
+    "on": "セキ, シャク",
+    "directions": [["r"], ["d"], ["r"], ["d"], ["d", "l"], ["dl"], ["dr"]]
+  },
+  {
+    "kanji": "千",
+    "meaning": "thousand",
+    "kun": "ち",
+    "on": "セン",
+    "directions": [["dl"], ["r"], ["d"]]
+  },
+  {
+    "kanji": "川",
+    "meaning": "stream, river, river or three-stroke river radical (no. 47)",
+    "kun": "かわ",
+    "on": "セン",
+    "directions": [["d"], ["d"], ["d"]]
+  },
+  {
+    "kanji": "先",
+    "meaning": "before, ahead, previous, future, precedence",
+    "kun": "さき, ま.ず",
+    "on": "セン",
+    "directions": [["dl"], ["r"], ["d"], ["r"], ["dl"], ["d", "r", "ur"]]
+  },
+  {
+    "kanji": "早",
+    "meaning": "early, fast",
+    "kun": "はや.い, はや, はや-, はや.まる, はや.める, さ-",
+    "on": "ソウ, サッ",
+    "directions": [["d"], ["r", "d"], ["r"], ["r"], ["r"], ["d"]]
+  },
+  {
+    "kanji": "草",
+    "meaning": "grass, weeds, herbs, pasture, write, draft",
+    "kun": "くさ, くさ-, -ぐさ",
+    "on": "ソウ",
+    "directions": [
+      ["r"],
+      ["d"],
+      ["d"],
+      ["d"],
+      ["r", "d"],
+      ["r"],
+      ["r"],
+      ["r"],
+      ["d"]
+    ]
+  },
+  {
+    "kanji": "足",
+    "meaning": "leg, foot, be sufficient, counter for pairs of footwear",
+    "kun": "あし, た.りる, た.る, た.す",
+    "on": "ソク",
+    "directions": [["d"], ["r", "d"], ["r"], ["d"], ["r"], ["dl"], ["r"]]
+  },
+  {
+    "kanji": "村",
+    "meaning": "village, town",
+    "kun": "むら",
+    "on": "ソン",
+    "directions": [["r"], ["d"], ["dl"], ["dr"], ["r"], ["d", "l"], ["dr"]]
+  },
+  {
+    "kanji": "大",
+    "meaning": "large, big",
+    "kun": "おお-, おお.きい, -おお.いに",
+    "on": "ダイ, タイ",
+    "directions": [["r"], ["d", "dl"], ["dr"]]
+  },
+  {
+    "kanji": "男",
+    "meaning": "male",
+    "kun": "おとこ, お",
+    "on": "ダン, ナン",
+    "directions": [
+      ["d"],
+      ["r", "d"],
+      ["d"],
+      ["r"],
+      ["r"],
+      ["r", "d", "l"],
+      ["dl", "dl"]
+    ]
+  },
+  {
+    "kanji": "竹",
+    "meaning": "bamboo",
+    "kun": "たけ",
+    "on": "チク",
+    "directions": [["dl"], ["r"], ["d"], ["dl"], ["r"], ["d", "l"]]
+  },
+  {
+    "kanji": "中",
+    "meaning": "in, inside, middle, mean, center",
+    "kun": "なか, うち, あた.る",
+    "on": "チュウ",
+    "directions": [["d"], ["r", "d"], ["r"], ["d"]]
+  },
+  {
+    "kanji": "虫",
+    "meaning": "insect, bug, temper",
+    "kun": "むし",
+    "on": "チュウ, キ",
+    "directions": [["d"], ["r", "d"], ["r"], ["d"], ["r"], ["dr"]]
+  },
+  {
+    "kanji": "町",
+    "meaning": "town, village, block, street",
+    "kun": "まち",
+    "on": "チョウ",
+    "directions": [["d"], ["r", "d"], ["d"], ["r"], ["r"], ["r"], ["d", "l"]]
+  },
+  {
+    "kanji": "天",
+    "meaning": "heavens, sky, imperial",
+    "kun": "あまつ, あめ, あま-",
+    "on": "テン",
+    "directions": [["r"], ["r"], ["d", "dl"], ["dr"]]
+  },
+  {
+    "kanji": "田",
+    "meaning": "rice field, rice paddy",
+    "kun": "た",
+    "on": "デン",
+    "directions": [["d"], ["r", "d"], ["d"], ["r"], ["r"]]
+  },
+  {
+    "kanji": "土",
+    "meaning": "soil, earth, ground, Turkey",
+    "kun": "つち",
+    "on": "ド, ト",
+    "directions": [["r"], ["d"], ["r"]]
+  },
+  {
+    "kanji": "二",
+    "meaning": "two, two radical (no. 7)",
+    "kun": "ふた, ふた.つ, ふたたび",
+    "on": "ニ, ジ",
+    "directions": [["r"], ["r"]]
+  },
+  {
+    "kanji": "日",
+    "meaning": "day, sun, Japan, counter for days",
+    "kun": "ひ, -び, -か",
+    "on": "ニチ, ジツ",
+    "directions": [["d"], ["r", "d"], ["r"], ["r"]]
+  },
+  {
+    "kanji": "入",
+    "meaning": "enter, insert",
+    "kun": "い.る, -い.る, -い.り, い.れる, -い.れ, はい.る",
+    "on": "ニュウ, ジュ",
+    "directions": [["dl"], ["dr"]]
+  },
+  {
+    "kanji": "年",
+    "meaning": "year, counter for years",
+    "kun": "とし",
+    "on": "ネン",
+    "directions": [["dl"], ["r"], ["r"], ["d"], ["r"], ["d"]]
+  },
+  {
+    "kanji": "白",
+    "meaning": "white",
+    "kun": "しろ, しら-, しろ.い",
+    "on": "ハク, ビャク",
+    "directions": [["dl"], ["d"], ["r", "d"], ["r"], ["r"]]
+  },
+  {
+    "kanji": "八",
+    "meaning": "eight, eight radical (no. 12)",
+    "kun": "や, や.つ, やっ.つ, よう",
+    "on": "ハチ, ハツ",
+    "directions": [["dl"], ["dr"]]
+  },
+  {
+    "kanji": "百",
+    "meaning": "hundred",
+    "kun": "もも",
+    "on": "ヒャク, ビャク",
+    "directions": [["r"], ["dl"], ["d"], ["r", "d"], ["r"], ["r"]]
+  },
+  {
+    "kanji": "文",
+    "meaning": "sentence, literature, style, art, decoration, figures, plan, literary radical (no. 67)",
+    "kun": "ふみ, あや",
+    "on": "ブン, モン",
+    "directions": [["d"], ["r"], ["dl", "dl"], ["dr"]]
+  },
+  {
+    "kanji": "木",
+    "meaning": "tree, wood",
+    "kun": "き, こ-",
+    "on": "ボク, モク",
+    "directions": [["r"], ["d"], ["dl"], ["dr"]]
+  },
+  {
+    "kanji": "本",
+    "meaning": "book, present, main, origin, true, real, counter for long cylindrical things",
+    "kun": "もと",
+    "on": "ホン",
+    "directions": [["r"], ["d"], ["dl"], ["dr"], ["r"]]
+  },
+  {
+    "kanji": "名",
+    "meaning": "name, noted, distinguished, reputation",
+    "kun": "な, -な",
+    "on": "メイ, ミョウ",
+    "directions": [
+      ["dl"],
+      ["r", "d", "dl", "dl"],
+      ["dr"],
+      ["d"],
+      ["r", "d"],
+      ["r"]
+    ]
+  },
+  {
+    "kanji": "目",
+    "meaning": "eye, class, look, insight, experience, care, favor",
+    "kun": "め, -め, ま-",
+    "on": "モク, ボク",
+    "directions": [["d"], ["r", "d"], ["r"], ["r"], ["r"]]
+  },
+  {
+    "kanji": "立",
+    "meaning": "stand up, rise, set up, erect",
+    "kun": "た.つ, -た.つ, た.ち-, た.てる, -た.てる, た.て-, たて-, -た.て, -だ.て, -だ.てる",
+    "on": "リツ, リュウ, リットル",
+    "directions": [["d"], ["r"], ["d"], ["d"], ["r"]]
+  },
+  {
+    "kanji": "力",
+    "meaning": "power, strength, strong, strain, bear up, exert",
+    "kun": "ちから",
+    "on": "リョク, リキ, リイ",
+    "directions": [
+      ["r", "d", "dl", "ul"],
+      ["d", "dl"]
+    ]
+  },
+  {
+    "kanji": "林",
+    "meaning": "grove, forest",
+    "kun": "はやし",
+    "on": "リン",
+    "directions": [["r"], ["d"], ["dl"], ["dr"], ["r"], ["d"], ["dl"], ["dr"]]
+  },
+  {
+    "kanji": "六",
+    "meaning": "six",
+    "kun": "む, む.つ, むっ.つ, むい",
+    "on": "ロク, リク",
+    "directions": [["d"], ["r"], ["dl"], ["dr"]]
+  }
+]
