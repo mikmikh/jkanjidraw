@@ -83,6 +83,7 @@ html {
     max-width: 600px;
     font-size: 2rem;
     margin: 0 auto;
+    height: auto;
   }
   select {
     font-size: 2rem;
